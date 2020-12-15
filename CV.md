@@ -28,11 +28,12 @@
 ## ACADEMIC POSITIONS 
 
 2020-present		Graduate Teaching Assistant (Instructor of Record) for First Year Writing (ENG 101), Department of English and the First Year Writing Program, North Carolina State University 
-	[Syllabus](https://docs.google.com/document/d/1I7n-7aPc2dGHBm9PuMNgWQQZ9diiN42bffTMDE5j0Y8/edit?usp=sharing) and [Course Calendar](https://docs.google.com/document/d/1z6ISqyEwxWCxf243y2q7_DnaDvtY1q9-E166JRTAJ8M/edit?usp=sharing) 
+	
+[Syllabus](https://docs.google.com/document/d/1I7n-7aPc2dGHBm9PuMNgWQQZ9diiN42bffTMDE5j0Y8/edit?usp=sharing) and [Course Calendar](https://docs.google.com/document/d/1z6ISqyEwxWCxf243y2q7_DnaDvtY1q9-E166JRTAJ8M/edit?usp=sharing) 
 
-2019-2020		Graduate Teaching Assistant (Instructor of Record) for American Literature (ENG 266), Department of English, North Carolina State 
-University
-	[Syllabus](https://drive.google.com/file/d/1U5okBpnEmIbVmlaJR1fqt-CmcQPqaYAL/view)
+2019-2020		Graduate Teaching Assistant (Instructor of Record) for American Literature (ENG 266), Department of English, North Carolina State University
+	
+[Syllabus](https://drive.google.com/file/d/1U5okBpnEmIbVmlaJR1fqt-CmcQPqaYAL/view)
 
 1/2017-12/2018		Undergraduate and Graduate Tutor, University Tutorial Center - [Academic Success Center](https://asc.dasa.ncsu.edu/), North Carolina State University
 
