@@ -223,18 +223,31 @@ Spring 2017-Fall 2018		Undergraduate and Graduate Writing Tutor, Academic Succes
 ## HONORS & AWARDS 
 
 Spring 2021			        Modern Language Association Convention Travel Grant
-Fall 2020-Spring 2021		University Graduate Fellowship
-Fall 2020-Spring 2021		NC State Teaching Assistantship, ENG 101
+
+Fall 2020-Spring 2021			University Graduate Fellowship
+
+Fall 2020-Spring 2021			NC State Teaching Assistantship, ENG 101
+
 Spring 2020			        Distinguished Capstone Award, English Department, NC State University 
+
 Spring 2020			        Award in Excellence in Classroom Teaching, NC State University
-Spring 2020 			      Graduate Research Symposium Funding Award
+
+Spring 2020 			     	Graduate Research Symposium Funding Award
+
 Spring 2020			        NC State English Department Travel Award
+
 Fall 2019 			        NC State English Department Travel Award
+
 Summer 2019			        NC State English Department Travel Award
-Spring 2019 			      DReAM Lab Scholarship, University of Pennsylvania
-Fall 2018-Spring 2020		NC State Teaching Assistantship, ENG 266
+
+Spring 2019 			    	DReAM Lab Scholarship, University of Pennsylvania
+
+Fall 2018-Spring 2020			NC State Teaching Assistantship, ENG 266
+
 Spring 2018			        North Carolina State University Valedictorian
-Spring 2018 			      Lucinda MacKethan Award
+
+Spring 2018 			        Lucinda MacKethan Award
+
 Spring 2017			        Phi Beta Kappa Honor Society
 
 
@@ -253,29 +266,27 @@ Spring 2017			        Phi Beta Kappa Honor Society
 
 North Carolina State Teaching License: Secondary English Education
 
-Cary High School, Wake County, North Carolina
-  12th Grade English: Academic and AP 					
-  Creative Writing: 1 and 2
+Cary High School, Wake County, North Carolina: 12th Grade English (Academic and AP) and Creative Writing (1 and 2)
   
 
 ## ORGANIZATIONS & AFFILIATIONS
 
-Activism/Social Justice/CER Cluster
-Art/Creative Media/Literature Cluster	
-Critical Theory/Cultural Studies Cluster
-Digital Humanities/Critical Making Cluster
-Digital Rhetorics/Rhetorics of Space and Place Cluster
-Feminism/Intersectionality/Gender Studies/Diversity/Inclusivity/CRT/Disability Studies Cluster
-Game Studies Cluster 
-Langston Hughes Society 
-Literacy/Pedagogy/First Year Writing/Writing Program Admin/Composition Cluster
-Media Studies/Media Circulation Cluster
-Methods Research Cluster 
-Modern Language Association
-National Council of Teachers of English 
-NCTE at North Carolina State University 
-NeMLA Graduate Caucus
-North Carolina Association of Educators 
-Northeast Modern Language Association 
-Phi Beta Kappa
-Pop Culture/Film/Television/Animation/Fandom Studies Cluster
+- Activism/Social Justice/CER Cluster
+- Art/Creative Media/Literature Cluster	
+- Critical Theory/Cultural Studies Cluster
+- Digital Humanities/Critical Making Cluster
+- Digital Rhetorics/Rhetorics of Space and Place Cluster
+- Feminism/Intersectionality/Gender Studies/Diversity/Inclusivity/CRT/Disability Studies Cluster
+- Game Studies Cluster 
+- Langston Hughes Society 
+- Literacy/Pedagogy/First Year Writing/Writing Program Admin/Composition Cluster
+- Media Studies/Media Circulation Cluster
+- Methods Research Cluster 
+- Modern Language Association
+- National Council of Teachers of English 
+- NCTE at North Carolina State University 
+- NeMLA Graduate Caucus
+- North Carolina Association of Educators 
+- Northeast Modern Language Association 
+- Phi Beta Kappa
+- Pop Culture/Film/Television/Animation/Fandom Studies Cluster
