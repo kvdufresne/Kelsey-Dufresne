@@ -40,7 +40,7 @@
 
 ## RESEARCH PROJECTS
 
-2020-2021		Programmer and Content Contributor, FrankenProject, North Carolina State University.
+2020-2021		Programmer and Content Contributor, [FrankenProject](https://sway.office.com/TiZeCIrmTjOcTIoR?ref=Link), North Carolina State University.
 
 FrankenProject is a Python-Arduino-Blender experience-based device that facilitates user-generated distant readings of Mary Shelley’s Frankenstein. When a user touches the Arduino: (1) the human body “pulls” energy from the object, (2) the object registers the amount of voltage lost to transduction, (3) the Python program performs a mediated reading of Frankenstein based on that loss, and (4) a new, glitchy reading appears on a screen. In this way, FrankenProject literally connects users to Shelley’s novel, especially to Victor’s journey from creator to spectator as his assemblage acts in/on the world. With this project, I work with Python, Natural Language Processing, and GPT2 to develop and create unique poems and textual analysis to support textual glitching and distant reading.
 
@@ -95,9 +95,7 @@ Organization.” _Genders, Cultures and Literacies: Understanding Intersecting I
 
 2020 		Cervantes, Andrea , Briza Cruz, **Kelsey Dufresne**, Kevin Garcia-Galindo, Aldo Galvan Hernandez, Crystal Chen Lee, Nina Schoonover, and Luis Zavala. “Poets as Proponents: Creating Safe Spaces for Minorities.” [_Fringes_](http://www.ncenglishteachersassociation.org/journalissues/). 
 
-2020 		Lee, Crystal, Jose Picart, Nina Schoonover, and **Kelsey Dufresne**. “[The Power of 
-Youth Voices: Bringing a Publishing Curriculum to Your Classroom](https://www.fi.ncsu.edu/resources/the-power-of-youth-voices-bringing-a-
-publishing-curriculum-to-your-classroom/).”  Friday Institute of Educational Innovation, North Carolina State University. (Education Brief). 
+2020 		Lee, Crystal, Jose Picart, Nina Schoonover, and **Kelsey Dufresne**. “[The Power of Youth Voices: Bringing a Publishing Curriculum to Your Classroom](https://www.fi.ncsu.edu/resources/the-power-of-youth-voices-bringing-a-publishing-curriculum-to-your-classroom/).”  Friday Institute of Educational Innovation, North Carolina State University. (Education Brief). 
 
 2020 		Dufresne, Kelsey. “You’re Hurting Me: Disability and Disabling Experiences with Property and A Land More Kind Than Home.“ _North Carolina Folklore Journal_, vol. 67.
 
@@ -126,7 +124,7 @@ publishing-curriculum-to-your-classroom/).”  Friday Institute of Educational I
 
 2021		“Anchorholds, VR Technology, and the English Student on an Engineering Campus.” _Modern Language Association, Borrowed Tools for Digital Scholarship and Pedagogy_. Toronto, Canada.
 
-2021		**Dufresne, Kelsey** and Crystal Lee. “‘I Still Believe in Myself’: Amplifying the Voices of Marginalized and Underserved Youth.” _Modern Language Association, #OwnVoices in Children’s and Adolescent Literature_. Toronto, Canada.
+2021		**Dufresne, Kelsey** and Crystal Lee. “[‘I Still Believe in Myself’: Amplifying the Voices of Marginalized and Underserved Youth](https://sway.office.com/Je1AUtcxOmuuVXE3?ref=Link).” _Modern Language Association, #OwnVoices in Children’s and Adolescent Literature_. Toronto, Canada.
 
 2020		Olsen, Calvin, **Kelsey Dufresne**, and David Rieder. “FrankenProject.” _Digital Humanities Collaborative of North Carolina, Digital Humanities in Extraordinary Times_. Virtual conference.
 
